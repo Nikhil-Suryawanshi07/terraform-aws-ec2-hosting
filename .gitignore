@@ -1,0 +1,6 @@
+gitignore id="87uvmj"
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
